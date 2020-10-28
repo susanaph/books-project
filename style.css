@@ -1,0 +1,46 @@
+body {
+    background-color: linen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    
+    font-weight: 300;
+    
+}
+
+ul {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+img {
+    border-radius: 0px;
+    width: 300 px;
+    height: 200 px;
+    
+}
+
+td {
+    width: 300px;
+    height: 200px;
+}
+
+table {
+    padding-left: 60px;
+    padding-right: 60px;
+    
+  }
+
+td.whatever {
+    height: 500 px;
+}
