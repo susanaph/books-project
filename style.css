@@ -23,24 +23,25 @@ ul {
     padding-right: 60px;
 }
 
-img {
-    border-radius: 0px;
-    width: 300 px;
-    height: 200 px;
-    
-}
 
 td {
-    width: 300px;
-    height: 200px;
+    
+    width: auto;
+    height: 250px;
+    padding: 2%;
+    
 }
 
 table {
-    padding-left: 60px;
-    padding-right: 60px;
-    
+    text-align: center;
+    width: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    border-spacing: 8px;
+    border-collapse: collapse;
   }
-
-td.whatever {
-    height: 500 px;
-}
+  
+  footer {
+      padding-bottom: 100 px;
+  }
