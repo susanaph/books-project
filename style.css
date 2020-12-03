@@ -45,3 +45,6 @@ table {
   footer {
       padding-bottom: 100 px;
   }
+
+  img:hover {
+    transform: scale(1.08);
